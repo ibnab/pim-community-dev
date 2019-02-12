@@ -5,6 +5,10 @@
 - PIM-8020: Fix wrong count on missing required attributes in the completeness
 - PIM-8028: Fix translations on boolean values
 
+## Improvements
+
+- DAPI-19: Update `Akeneo\Pim\Enrichment\Component\Product\Normalizer\Indexing\ProductAndProductModel\ProductPropertiesNormalizer` to accept optional normalizers 
+
 # 3.0.1 (2019-02-06)
 
 - Name Community version "Super-Rabbit"
